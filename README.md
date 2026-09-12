@@ -1,0 +1,18 @@
+# 💫 About Me:
+TR:<br>- 🔭 Şu anda **mobil mimariler, FastAPI backends ve makine öğrenimi iş akışları (LSTM / ONNX)** üzerinde çalışıyorum<br>- 👯 **Açık kaynaklı projeler, API optimizasyonu ve derin öğrenme entegrasyonları** konusunda işbirliği yapmak istiyorum<br>- 🤝 **Gelişmiş mobil sistem tasarımı ve cihazlarda makine öğrenimi dağıtımları** konusunda yardıma ihtiyacım var<br>- 🌱 Şu anda **modern mobil geliştirme ** konusunda öğrenme aşamasındayım<br><br>Translated with DeepL.com (free version)<br><br><br>ENG:<br>- 🔭 I’m currently working on **mobile architectures, FastAPI backends, and ML pipelines (LSTM / ONNX)**<br>- 👯 I’m looking to collaborate on **open-source projects, API optimization, and deep learning integrations**<br>- 🤝 I’m looking for help with **mobile system design and device ML deployments**<br>- 🌱 I’m currently learning **modern mobile development best practices **<br>
+
+
+## 🌐 Socials:
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/www.linkedin.com/in/adil-murat-kartal-038a74248) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:adilmuratkartal@gmail.com) 
+
+# 💻 Tech Stack:
+![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=flat-square&logo=typescript&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=flat-square&logo=python&logoColor=ffdd54) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=flat-square&logo=javascript&logoColor=%23F7DF1E) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=flat-square&logo=react&logoColor=%2361DAFB) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=flat-square&logo=node.js&logoColor=white) ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=flat-square&logo=fastapi) ![Chart.js](https://img.shields.io/badge/chart.js-F5788D.svg?style=flat-square&logo=chart.js&logoColor=white) ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=flat-square&logo=sqlite&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=flat-square&logo=figma&logoColor=white) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=flat-square&logo=numpy&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=flat-square&logo=git&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=flat-square&logo=postgresql&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=flat-square&logo=Matplotlib&logoColor=black) ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=flat-square&logo=TensorFlow&logoColor=white) ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=flat-square&logo=PyTorch&logoColor=white)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.shion.dev/api?username=AdilMuratKartal&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://streak-stats.demolab.com/?user=AdilMuratKartal&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.shion.dev/api/top-langs/?username=AdilMuratKartal&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+
+---
+[![](https://komarev.com/ghpvc/?username=AdilMuratKartal&icon=0&color=0)](https://visitcount.itsvg.in)
+
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
